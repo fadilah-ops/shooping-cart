@@ -1,0 +1,1 @@
+ini adalah project shooping cart menggunakan metode MEVN untuk pengembangan web
